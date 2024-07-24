@@ -1,0 +1,186 @@
+✨ New Release: Version 1.1.0 ✨
+
+Date: July 19, 2024
+
+We are excited to announce several new features and improvements to our Discord bot. Here's a detailed changelog of what's been added:
+
+New Commands Added:
+Fun Commands:
+/cat: Fetches a random cat picture.
+/dog: Fetches a random dog picture.
+/coinflip: Flips a coin and returns heads or tails.
+/diceroll: Rolls a dice and returns the result.
+/meme: Fetches a random meme.
+/quote: Fetches a random inspirational quote.
+/advice: Fetches a random piece of advice.
+/trivia: Fetches a random trivia question.
+/define: Fetches a definition from Urban Dictionary for a specified term.
+/weather: Fetches the current weather for a specified location.
+
+Moderation Commands:
+/ban: Bans a user from the server.
+/kick: Kicks a user from the server.
+/mute: Mutes a user in the server.
+/unmute: Unmutes a user in the server.
+/clear: Clears a specified number of messages in a channel.
+
+Joke Command:
+/joke: Sends a random dad joke fetched from the local API.
+
+Improvements:
+Enhanced Command Loading: All commands are now dynamically loaded and logged, improving the maintainability and scalability of the bot.
+Error Handling: Improved error handling across all commands to provide better feedback and ensure smoother operation.
+
+Thank you for using our bot! Enjoy the new features and have fun! 🎉
+
+✨ New Release: Version 1.2.0 ✨
+
+Date: July 19, 2024
+
+We are excited to announce a major update with several new features and commands. Here's a detailed changelog of what's been added:
+
+New Fun Commands:
+/tictactoe: Play a game of Tic Tac Toe with another user.
+/triviaquiz: Start a trivia quiz with multiple rounds and scoring.
+
+New Moderation Commands:
+/warn: Issue a warning to a user and log it.
+/lock: Lock a channel to prevent users from sending messages.
+
+New Utility Command:
+/setwelcome: Set a custom welcome message for new members.
+
+Last Update for today 🎉 
+
+✨ New Release: Version 1.2.1 ✨
+
+Date: July 19, 2024
+
+Changes:
+Bug Fixes: Addressed various small bugs to improve stability and performance.
+New Command: Added /help command to list all available commands and their descriptions.
+
+Thank you for using our bot! 🎉
+
+ New Release: Version 1.2.2 
+
+
+
+
+ New Release: Version 1.3.0 
+
+Date: July 19, 2024
+
+We are excited to announce the addition of several new fun commands and a new utility command. Here's a detailed changelog of what's been added:
+
+New Fun Commands:
+/wouldyourather: Ask a "Would You Rather" question.
+/hangman: Play a game of Hangman.
+/guessthenumber: Guess the number between 1 and 100.
+
+New Utility Command:
+/gif: Fetch a GIF based on a keyword.
+
+Enjoy the new features
+
+✨ New Release: Version 1.3.1 ✨
+
+Date: July 23, 2024
+
+
+Changes:
+
+New APIs:
+Dad Joke API: Over 500 dad jokes available. You can Get a random dad joke with the /joke command.
+Would You Rather API: Over 500 questions with the /wouldyourather command.
+
+Bug Fixes:
+Resolved minor bugs to enhance stability and performance.
+Improved error handling for existing commands.
+
+Thank you for using our bot! Enjoy the new features and have fun! 🎉
+
+✨ New Release: Version 1.4.0 ✨
+
+Date: July 23 2024
+
+New stuff and fixes!
+
+New Features:
+
+Leveling System:
+/level: Check your level and XP.
+/leaderboard: See the top 10 users.
+
+Moderation Commands:
+/timeout: Temporarily mute a user.
+/purge: Delete and recreate a channel.
+/clearwarnings: Clear all warnings for a user.
+/warnlist: List all warnings for a user.
+/serverinfo: Get server info.
+
+Fixes:
+Fixed bugs.
+Better error handling.
+
+Thanks for using our bot! 🎉
+
+✨ New Release: Version 1.5.0 ✨
+
+Date: July 24, 2024
+
+New features and updates!
+
+New Features:
+
+Life Simulation System:
+/balance: Check your balance. Start with $250.
+/rob: Try to rob another user. 10% chance to steal half their money; failure results in losing 10% of your money.
+/leaderboard type:level or life: See the top users for levels or cash.
+
+Server Status Commands:
+/fivemstatus ip: Check the status of a FiveM server.
+/minecraftstatus ip: Check the status of a Minecraft server.
+
+Improvements:
+Leaderboard now shows user mentions instead of IDs
+Bug fixes and more bugs
+
+✨ New Release: Version 1.5.1 ✨
+
+Date: July 24, 2024
+
+#### Job Update
+
+New commands and updates for a better job system!
+
+New Features:
+
+Job System:
+/job: Get a random job assigned to earn a daily income.
+/work: Perform work to earn a set amount of money.
+/quitjob: Quit your current job.
+/jobs: List available jobs and their daily income.
+
+Skill System:
+/study: Spend time studying to improve skills.
+/skills: Check your current skills and levels.
+/enroll course: Enroll in a course to learn a new skill.
+✨ New Release: Version 1.5.2 ✨
+
+Date: July 24, 2024
+
+Gamble Update
+
+New commands for a fun gambling experience!
+
+New Features:
+
+Gambling System:
+/gamble amount: Gamble a specified amount of money for a chance to win or lose.
+/lottery: Enter a lottery for a chance to win big. 1%
+/rolldice bet: Roll a dice for a chance to win money.
+/bet amount on option: Place a bet on a specific option in a game.
+
+
+Thanks for using our bot! 🎉
